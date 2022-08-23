@@ -1,8 +1,8 @@
 # Torva
 
 ![Build](https://github.com/vineetver/Torva/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.github.vineetver.torva.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.torva)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.vineetver.torva.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.torva)
 
 <!-- Plugin description -->
 This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
