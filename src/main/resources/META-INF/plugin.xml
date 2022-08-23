@@ -2,17 +2,11 @@
 <idea-plugin>
     <id>com.github.vineetver.torva</id>
     <name>Torva</name>
-    <vendor>vineetver</vendor>
+    <vendor email="vineetver@gmail.com" url="https://www.goodbyeweekend.io">Vineet Verma</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.vineetver.torva.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.vineetver.torva.services.MyProjectService"/>
+        <themeProvider id="al10kammslalsm" path="/theme/torva.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.vineetver.torva.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>

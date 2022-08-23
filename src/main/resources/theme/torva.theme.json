@@ -1,0 +1,39 @@
+{
+  "author": "Vineet",
+  "dark": true,
+  "name": "Torva",
+  "editorScheme": "/theme/mytheme.xml",
+  "colors": {
+    "primaryBackground": "#22252a",
+    "primaryForeground": "#B9B9B9",
+    "secondaryBackground": "#212121",
+    "borderColor": "#35393F"
+  },
+  "ui": {
+    "*": {
+      "background": "primaryBackground",
+      "foreground": "primaryForeground",
+      "disabledBackground": "#212322",
+      "inactiveBackground": "#22272D",
+      "selectionBackground": "#2d333b",
+      "selectionInactiveBackground": "#2d333b",
+      "lightSelectionBackground": "#393a3d",
+      "lightSelectionInactiveBackground": "#2f3032",
+      "disabledBorderColor": "#333336",
+      "separatorForeground": "#444c56",
+      "separatorColor": "#444c56",
+      "lineSeparatorColor": "#444c56"
+    },
+    "Borders": {
+      "ContrastBorderColor": "primaryBackground",
+      "color": "primaryBackground"
+    },
+    "EditorTabs": {
+      "background": "primaryBackground",
+      "borderColor": "primaryBackground",
+      "hoverBackground": "borderColor",
+      "underlineHeight": 0,
+      "inactiveColoredFileBackground": "primaryBackground"
+    }
+  }
+}
