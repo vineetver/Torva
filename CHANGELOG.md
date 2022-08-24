@@ -8,4 +8,3 @@
 ### Added
 - Icon
 - Plugin Description
-
