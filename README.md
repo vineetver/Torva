@@ -1,6 +1,5 @@
 # Torva
 
-![Build](https://github.com/vineetver/Torva/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/com.github.vineetver.torva.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.torva)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.vineetver.torva.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.torva)
 
