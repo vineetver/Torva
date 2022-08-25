@@ -3,9 +3,10 @@
     <id>com.github.vineetver.torva</id>
     <name>Torva</name>
     <vendor email="vineetver@gmail.com" url="https://www.goodbyeweekend.io">Vineet Verma</vendor>
-
+    <version>0.0.2</version>
+    <change-notes>Added Plugin Description and Icon.</change-notes>
     <depends>com.intellij.modules.platform</depends>
-
+    
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="al10kammslalsm" path="/theme/torva.theme.json"/>
     </extensions>
