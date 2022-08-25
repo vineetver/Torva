@@ -5,6 +5,7 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.vineetver.torva.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.torva)
 
 
+![screenshot](https://user-images.githubusercontent.com/66165922/186718895-46cc0e89-b9ca-4635-8250-356dbe95d432.jpeg)
 
 <!-- Plugin description -->
 
