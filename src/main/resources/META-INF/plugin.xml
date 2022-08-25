@@ -5,17 +5,7 @@
     <vendor email="vineetver@gmail.com" url="https://www.goodbyeweekend.io">Vineet Verma</vendor>
 
     <depends>com.intellij.modules.platform</depends>
-    <description><![CDATA[
-  Torva - A personalized Jetbrains theme with great accessibility based on Github color scheme
-  <br/><br/>
-  To install:
-  <ul>
-  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
-  <li>Restart IDE</li>
-  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
-  </ul>
-  <br/>
-    ]]></description>
+
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="al10kammslalsm" path="/theme/torva.theme.json"/>
     </extensions>
