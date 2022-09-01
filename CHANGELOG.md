@@ -4,11 +4,18 @@
 
 ## [Unreleased]
 
-## [1.0.0]
-## [1.0.0] 
+## [1.1.0]
+## 1.1.0
 
 ### Added
 
+- UI and border colours
+- Support Python and R notebooks
+- Small changes to Python Syntax Highlighting
+
+## [1.0.0]
+## [1.0.0]
+### Added
 - Plugin icon and description
 - Python, R, Javascript, Java, and C++ support
 
