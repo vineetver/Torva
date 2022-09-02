@@ -4,7 +4,7 @@
   "name": "Torva",
   "editorScheme": "/theme/mytheme.xml",
   "colors": {
-    "primaryBackground": "#22252a",
+    "primaryBackground": "#1a1d22",
     "primaryForeground": "#B9B9B9",
     "secondaryBackground": "#212121",
     "borderColor": "#35393F"
@@ -14,26 +14,27 @@
       "background": "primaryBackground",
       "foreground": "primaryForeground",
       "disabledBackground": "#212322",
-      "inactiveBackground": "#22272D",
-      "selectionBackground": "#2d333b",
-      "selectionInactiveBackground": "#2d333b",
-      "lightSelectionBackground": "#393a3d",
-      "lightSelectionInactiveBackground": "#2f3032",
-      "disabledBorderColor": "#333336",
-      "separatorForeground": "#444c56",
-      "separatorColor": "#444c56",
-      "lineSeparatorColor": "#444c56"
+      "inactiveBackground": "#212322",
+      "selectionBackground": "#2d3139",
+      "selectionInactiveBackground": "#2d333b"
+
     },
     "Borders": {
       "ContrastBorderColor": "primaryBackground",
-      "color": "primaryBackground"
+      "color": "#212322"
     },
     "EditorTabs": {
       "background": "primaryBackground",
       "borderColor": "primaryBackground",
-      "hoverBackground": "borderColor",
-      "underlineHeight": 0,
-      "inactiveColoredFileBackground": "primaryBackground"
+      "underlineHeight": 2,
+      "underlineColor": "#497eb2",
+      "underlinedTabBackground": "primaryBackground",
+      "hoverBackground": "#212322"
+    },
+    "StatusBar.borderColor": "primaryBackground",
+    "MenuBar.borderColor": "primaryBackground",
+    "Tree": {
+      "selectionInactiveBackground": "primaryBackground"
     }
   }
 }
